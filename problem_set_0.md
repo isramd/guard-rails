@@ -1,6 +1,6 @@
 Question 1: In your opinion what are the 3 most important factors of a 12 factor app?
 
-1) Use declarative formats for setup automation, to minimize time and cost.********
+1) Use declarative formats for setup automation, to minimize time and cost.
 2) Minimize differences between development and production, enabling continuous deployment for maximum agility.
 3) Can scale up without significant changes to tooling, architecture, or development practices.
 
